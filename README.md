@@ -2,7 +2,7 @@
 Fourth semester lecture: Software Engineering - Design
 # Programming langauge:
 C++
-## IDE:
+# IDE:
 Netbeans
 
 All necessary information here!
