@@ -13,6 +13,6 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    cout << "Hallo World";
+    LotteryControl* lotteryGame = new LotteryControl();
     return 0;
 }
