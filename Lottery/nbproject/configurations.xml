@@ -5,6 +5,7 @@
                    displayName="Header Files"
                    projectFiles="true">
       <itemPath>Lottery.h</itemPath>
+      <itemPath>LotteryControl.h</itemPath>
       <itemPath>Player.h</itemPath>
       <itemPath>Ticket.h</itemPath>
     </logicalFolder>
@@ -16,6 +17,7 @@
                    displayName="Source Files"
                    projectFiles="true">
       <itemPath>Lottery.cpp</itemPath>
+      <itemPath>LotteryControl.cpp</itemPath>
       <itemPath>Player.cpp</itemPath>
       <itemPath>Ticket.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
@@ -31,8 +33,6 @@
                    kind="IMPORTANT_FILES_FOLDER">
       <itemPath>Makefile</itemPath>
     </logicalFolder>
-    <itemPath>LotteryControl.cpp</itemPath>
-    <itemPath>LotteryControl.h</itemPath>
   </logicalFolder>
   <projectmakefile>Makefile</projectmakefile>
   <confs>

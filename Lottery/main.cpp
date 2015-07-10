@@ -1,18 +1,17 @@
 /* 
  * File:   main.cpp
- * Author: Marcel Klamm
  *
- * Created on 29. Mai 2015
  */
-
-#include <iostream>
-
+#include "LotteryControl.h"
 using namespace std;
 
 /*
- * 
+ * Entry main point for the lottery game Program
+ * @version 1.0
+ * @author Sarwat Khan, Marcel Klamm, Meeraf Golja
  */
 int main(int argc, char** argv) {
     LotteryControl* lotteryGame = new LotteryControl();
+    delete lotteryGame;
     return 0;
 }
